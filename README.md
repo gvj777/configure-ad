@@ -39,7 +39,7 @@ This image shows 2 separate virtual machines created in Azure that will be used 
 <img src="https://i.imgur.com/n9LchPJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this step, once I logged in to the DC-1 virtual machince through remote desktop, I used Windows Powershell to generate 1000 user accounts that will display in Active Directory. 
 </p>
 <br />
 
