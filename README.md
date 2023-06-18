@@ -52,10 +52,9 @@ After Windows Powershell generated the user accounts, all 1000 user accounts wer
 <br />
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VPAeYqo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-
- 
+Used Active Directory to reset employee Password.
 </p>
 <br />
