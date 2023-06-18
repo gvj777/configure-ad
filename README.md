@@ -31,7 +31,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/ESzwsTh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+This image shows 2 separate virtual machines created in Azure that will be used on a Remote Desktop for Active Directory. VM Client-1 is running on Windows 10 (21H2). VM DC-1 is running on Windows Server 2022. 
 </p>
 <br />
 
