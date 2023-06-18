@@ -20,10 +20,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Created 2 Virtual Machines in Microsoft Azure
+- Logged into Domain Controller Virtual Machine using Remote Desktop
+- Used Powershell to generate 1000 user accounts
+- Used Active Directory to access the user accounts to reset passwords
 
 <h2>Deployment and Configuration Steps</h2>
 
